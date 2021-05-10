@@ -1,0 +1,1 @@
+config package is installed to use global variables
